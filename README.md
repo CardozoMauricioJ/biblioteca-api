@@ -8,6 +8,7 @@ Este proyecto es una API REST desarrollada con Spring Boot para gestionar una bi
 
 * Spring Boot
 * Spring Data JPA
+* MySQL
 * Springdoc OpenAPI (Swagger)
 * Maven
 
